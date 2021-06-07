@@ -47,4 +47,4 @@ router.delete("/:id", withAuth, (req, res) => {
         res.status(500).json(err);
     });
 });
-module.exports = routers;
+module.exports = router;
