@@ -18,6 +18,8 @@ To build a CMS-style blog site similar to a Wordpress site, where developers can
 - [Questions](#Questions)
 <br />
 
+![photo](https://github.com/Jesse2360/Tech-Blog/blob/26e251f22f22399bb196d6f7868c2b2faef6a715/images/Screen%20Shot%202021-06-07%20at%2011.50.14%20PM.png)
+
 # Technologies
  * JavaScript
  * MySQL2
